@@ -1,2 +1,4 @@
+After fixing the conflicts
 test from user 2
 new line from user 2
+Changing by user 1
